@@ -1,6 +1,7 @@
 Dashboard Dynamics
 
-URL for setting
+URL for setting: https://raw.githubusercontent.com/eltoky/tab-revolver/main/config.json
+
 
 X https://app.powerbi.com/groups/me/apps/13d01f5c-f97b-44aa-a0f8-c36f003234ce/reports/3c6705af-ff94-499e-ad1a-1e9026d62941/ReportSection?ctid=4ebc9261-871a-44c5-93a5-60eb590917cd
 
