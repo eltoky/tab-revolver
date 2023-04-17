@@ -15,21 +15,7 @@ X https://app.powerbi.com/groups/me/apps/13d01f5c-f97b-44aa-a0f8-c36f003234ce/re
 
 X https://app.powerbi.com/groups/me/apps/13d01f5c-f97b-44aa-a0f8-c36f003234ce/reports/3c6705af-ff94-499e-ad1a-1e9026d62941/ReportSectionfb7a84f8eb1ac09ddab9?ctid=4ebc9261-871a-44c5-93a5-60eb590917cd
 
-X https://news.google.com/home?hl=en-US&gl=US&ceid=US:en
-
-X https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
-
-X https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
-
-X https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
-
-X https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
-
-X https://board.dxgarage.io/bqkyb4bm3tj8cbx6mqsbgqi544e/v9mmu1hzbhfrmmbqd5ufxytxufa
-
-X https://prj.dxgarage.io/b4ghwd9p4yibamnge7szspnw1tc/vy8aob1om6py7xffh57bjzby78o
-
-X https://monitoring.dxgarage.io/d/qwXnBJHVz/board-dxgarage-io-full-vm?refresh=5s&orgId=1
+X https://tasks.office.com/FPTSoftware362.onmicrosoft.com/en-US/Home/Planner#/plantaskboard?groupId=ba9e4fc4-c8da-47a1-b4c9-615f4bdf4780&planId=LNXbLm-b7EqszVuhTWB168gAAmFw
 
 X https://app.powerbi.com/groups/me/reports/d89271c3-815a-4685-bef2-cc23d974012f/ReportSection?ctid=4ebc9261-871a-44c5-93a5-60eb590917cd
 
@@ -47,14 +33,14 @@ X https://fpt.workplace.com/groups/3658061147574643
 
 X https://dev.azure.com/fpt-dxgroup/DXG%20Tracker/_dashboards/dashboard/ee2aae38-e6c7-458b-8741-8821f9734934
 
+X https://dev.azure.com/fpt-dxgroup/DXG%20Tracker/_dashboards/dashboard/c70178c0-06f9-4d20-9341-0b5427486fff
+
 X https://techcrunch.com/
 
 X https://www.marketwatch.com/economy-politics?mod=top_nav
-
-X https://www3.nhk.or.jp/news/
 
 X https://flipboard.com/topic/technology
 
 X https://www.bbc.com/news/technology
 
-X https://board.dxgarage.io/brnzamqpgj78b5mz6i3spe5ynjr/vswwbxg9syjrafxs1p1ta6gk3wh
+X https://tasks.office.com/FPTSoftware362.onmicrosoft.com/en-US/Home/Planner#/plantaskboard?groupId=7498b61c-559c-4443-9679-e4ecf8310908&planId=8A73QmstBUuxG0vwiba4K8gAHWTi
