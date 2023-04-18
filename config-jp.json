@@ -6,12 +6,7 @@
     "closeExistingTabs": true,
     "websites": [
       {
-        "url": "https://news.google.com/home?hl=en-US&gl=US&ceid=US:en",
-        "duration": 30,
-        "tabReloadIntervalSeconds": 180
-      },
-      {
-        "url": "https://board.dxgarage.io/brnzamqpgj78b5mz6i3spe5ynjr/vswwbxg9syjrafxs1p1ta6gk3wh",
+        "url": "https://tasks.office.com/FPTSoftware362.onmicrosoft.com/en-US/Home/Planner#/plantaskboard?groupId=7498b61c-559c-4443-9679-e4ecf8310908&planId=8A73QmstBUuxG0vwiba4K8gAHWTi",
         "duration": 30,
         "tabReloadIntervalSeconds": 180
       },{
@@ -19,19 +14,17 @@
         "duration": 30,
         "tabReloadIntervalSeconds": 180
       },{
-        "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
-        "duration": 30,
-        "tabReloadIntervalSeconds": 180
-      },{
         "url": "https://fpt.workplace.com/chat/t/3494945930632827",
         "duration": 30,
         "tabReloadIntervalSeconds": 180
-      },{
-        "url": "https://app.powerbi.com/groups/me/apps/13d01f5c-f97b-44aa-a0f8-c36f003234ce/reports/3c6705af-ff94-499e-ad1a-1e9026d62941/ReportSection803ea54dee5bb7b407a0?ctid=4ebc9261-871a-44c5-93a5-60eb590917cd",
+      },
+      {
+        "url": "https://tasks.office.com/FPTSoftware362.onmicrosoft.com/en-US/Home/Planner#/plantaskboard?groupId=ba9e4fc4-c8da-47a1-b4c9-615f4bdf4780&planId=LNXbLm-b7EqszVuhTWB168gAAmFw",
         "duration": 30,
         "tabReloadIntervalSeconds": 180
-      },{
-        "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+      },
+      {
+        "url": "https://app.powerbi.com/groups/me/apps/13d01f5c-f97b-44aa-a0f8-c36f003234ce/reports/3c6705af-ff94-499e-ad1a-1e9026d62941/ReportSection803ea54dee5bb7b407a0?ctid=4ebc9261-871a-44c5-93a5-60eb590917cd",
         "duration": 30,
         "tabReloadIntervalSeconds": 180
       },{
@@ -47,10 +40,6 @@
         "duration": 30,
         "tabReloadIntervalSeconds": 180
       },{
-        "url": "https://monitoring.dxgarage.io/d/qwXnBJHVz/board-dxgarage-io-full-vm?refresh=5s&orgId=1",
-        "duration": 30,
-        "tabReloadIntervalSeconds": 180
-      },{
         "url": "https://app.powerbi.com/groups/me/apps/94dbc069-b857-48bd-a420-c5c800880bcc/reports/a933f4fd-219b-41f0-9c6f-2ff6ddfb3d81/ReportSection?ctid=4ebc9261-871a-44c5-93a5-60eb590917cd",
         "duration": 30,
         "tabReloadIntervalSeconds": 180
@@ -59,15 +48,15 @@
         "duration": 30,
         "tabReloadIntervalSeconds": 180
       },{
-        "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
-        "duration": 30,
-        "tabReloadIntervalSeconds": 180
-      },{
         "url": "https://app.powerbi.com/groups/me/apps/13d01f5c-f97b-44aa-a0f8-c36f003234ce/reports/3c6705af-ff94-499e-ad1a-1e9026d62941/ReportSectiona209de21eac0ebd886ab?ctid=4ebc9261-871a-44c5-93a5-60eb590917cd",
         "duration": 30,
         "tabReloadIntervalSeconds": 180
       },{
         "url": "https://flipboard.com/topic/technology",
+        "duration": 30,
+        "tabReloadIntervalSeconds": 180
+      },{
+        "url": "https://dev.azure.com/fpt-dxgroup/DXG%20Tracker/_dashboards/dashboard/c70178c0-06f9-4d20-9341-0b5427486fff",
         "duration": 30,
         "tabReloadIntervalSeconds": 180
       },{
@@ -96,10 +85,6 @@
         "tabReloadIntervalSeconds": 180
       },{
         "url": "https://app.powerbi.com/groups/me/apps/13d01f5c-f97b-44aa-a0f8-c36f003234ce/reports/3c6705af-ff94-499e-ad1a-1e9026d62941/ReportSection57694d4f9c93c507d230?ctid=4ebc9261-871a-44c5-93a5-60eb590917cd",
-        "duration": 30,
-        "tabReloadIntervalSeconds": 180
-      },{
-        "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
         "duration": 30,
         "tabReloadIntervalSeconds": 180
       },{
